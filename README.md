@@ -1,9 +1,5 @@
 # Rock-Paper-Scissors-Game
 
-Okay, here's a simple and well-written read-me for a Rock, Paper, Scissors game:
-
-# Rock, Paper, Scissors Game!
-
 This is a fun and easy game you can play against the computer. It's based on the classic hand game of Rock, Paper, Scissors.
 
 ## How to Play
@@ -25,7 +21,7 @@ This is a fun and easy game you can play against the computer. It's based on the
 
 ## What You'll See
 
-When you play, you'll probably see:
+When you play, you'll probably see:s
 
 * **Your Choice:** What you picked (Rock, Paper, or Scissors).
 * **Computer's Choice:** What the computer picked.
